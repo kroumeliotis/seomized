@@ -1,8 +1,8 @@
 # An Effective SEO Techniques and Technologies Guide-Map
 
 ## Published Paper
-* **Journal**: [Journal of Web Engineering](https://ieeexplore.ieee.org/abstract/document/10246942)
-* **Title**: An Effective SEO Techniques and Technologies Guide-Map
+* **Journal**: [Journal of Web Engineering](https://journals.riverpublishers.com/index.php/JWE)
+* **Title**: [An Effective SEO Techniques and Technologies Guide-Map](https://ieeexplore.ieee.org/abstract/document/10246942)
 * **DOI**: https://doi.org/10.13052/jwe1540-9589.21510
 
 ## Authors
